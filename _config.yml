@@ -13,8 +13,8 @@ subtitle: "Retro, classical, actual"
 lang: en-us
 author: shoxxdj
 copyright: "CC-BY 4.0"
-baseurl: "/dj-podcasts" # the subpath of your site, e.g. /blog
-url: "https://shoxxdj.github.io" # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://dj-podcasts.shoxxdj.fr" # the base hostname & protocol for your site
 twitter_username: shoxxdj
 github_username:  shoxxdj
 
